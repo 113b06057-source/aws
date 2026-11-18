@@ -1,3 +1,4 @@
+<img width="1919" height="1079" alt="螢幕擷取畫面 2026-11-18 145551" src="https://github.com/user-attachments/assets/fdf4a6f8-21f7-4ff2-9ea8-05c01735371f" />
 <img width="1919" height="1079" alt="螢幕擷取畫面 2026-11-11 144957" src="https://github.com/user-attachments/assets/b416fc49-f3c9-4d7f-93c9-1e0ec85ce088" />
 <img width="1919" height="1079" alt="螢幕擷取畫面 2026-11-11 150222" src="https://github.com/user-attachments/assets/b37632ff-4375-4457-bc9a-3f51eebd3ef3" />
 <img width="1919" height="1079" alt="螢幕擷取畫面 2026-10-28 151405" src="https://github.com/user-attachments/assets/5af61932-7501-4d68-b3d8-5f25b48d5cf5" />
